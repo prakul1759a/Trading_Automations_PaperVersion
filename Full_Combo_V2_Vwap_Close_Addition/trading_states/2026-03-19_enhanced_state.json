@@ -1,0 +1,252 @@
+{
+  "trade_counter": 38,
+  "open_trades": {},
+  "timestamp": "2026-03-19T15:20:12.670611+05:30",
+  "fixed_atm_levels": {
+    "ATM_LV-4": {
+      "atm": 74400,
+      "ce_strike": 74400,
+      "pe_strike": 74400,
+      "strike_pair_key": "74400_STRADDLE"
+    },
+    "ATM_LV-3": {
+      "atm": 74600,
+      "ce_strike": 74600,
+      "pe_strike": 74600,
+      "strike_pair_key": "74600_STRADDLE"
+    },
+    "ATM_LV-2": {
+      "atm": 74800,
+      "ce_strike": 74800,
+      "pe_strike": 74800,
+      "strike_pair_key": "74800_STRADDLE"
+    },
+    "ATM_LV-1": {
+      "atm": 75000,
+      "ce_strike": 75000,
+      "pe_strike": 75000,
+      "strike_pair_key": "75000_STRADDLE"
+    },
+    "ATM_LV+0": {
+      "atm": 75200,
+      "ce_strike": 75200,
+      "pe_strike": 75200,
+      "strike_pair_key": "75200_STRADDLE"
+    },
+    "ATM_LV+1": {
+      "atm": 75400,
+      "ce_strike": 75400,
+      "pe_strike": 75400,
+      "strike_pair_key": "75400_STRADDLE"
+    },
+    "ATM_LV+2": {
+      "atm": 75600,
+      "ce_strike": 75600,
+      "pe_strike": 75600,
+      "strike_pair_key": "75600_STRADDLE"
+    },
+    "ATM_LV+3": {
+      "atm": 75800,
+      "ce_strike": 75800,
+      "pe_strike": 75800,
+      "strike_pair_key": "75800_STRADDLE"
+    },
+    "ATM_LV+4": {
+      "atm": 76000,
+      "ce_strike": 76000,
+      "pe_strike": 76000,
+      "strike_pair_key": "76000_STRADDLE"
+    }
+  },
+  "active_strike_pairs": {
+    "ATM_LV-4": {
+      "ce_strike": 74400,
+      "pe_strike": 74400,
+      "is_active": true,
+      "can_enter_trade": true,
+      "last_signal": {
+        "indicator_key": "74400_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 406.2687344099398,
+        "ema": null,
+        "close": 186.35,
+        "signal": 1,
+        "ce_strike": 74400,
+        "pe_strike": 74400,
+        "cumulative_volume": 3997680
+      },
+      "indicator_key": "74400_STRADDLE",
+      "atm_level": 74400,
+      "level_index": -4
+    },
+    "ATM_LV-3": {
+      "ce_strike": 74600,
+      "pe_strike": 74600,
+      "is_active": true,
+      "can_enter_trade": true,
+      "last_signal": {
+        "indicator_key": "74600_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 384.02751667667854,
+        "ema": null,
+        "close": 383.05,
+        "signal": 1,
+        "ce_strike": 74600,
+        "pe_strike": 74600,
+        "cumulative_volume": 1005700
+      },
+      "indicator_key": "74600_STRADDLE",
+      "atm_level": 74600,
+      "level_index": -3
+    },
+    "ATM_LV-2": {
+      "ce_strike": 74800,
+      "pe_strike": 74800,
+      "is_active": true,
+      "can_enter_trade": true,
+      "last_signal": {
+        "indicator_key": "74800_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 392.3184517413714,
+        "ema": null,
+        "close": 583.5,
+        "signal": 0,
+        "ce_strike": 74800,
+        "pe_strike": 74800,
+        "cumulative_volume": 806120
+      },
+      "indicator_key": "74800_STRADDLE",
+      "atm_level": 74800,
+      "level_index": -2
+    },
+    "ATM_LV-1": {
+      "ce_strike": 75000,
+      "pe_strike": 75000,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "75000_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 434.0567398884281,
+        "ema": null,
+        "close": 780.35,
+        "signal": 0,
+        "ce_strike": 75000,
+        "pe_strike": 75000,
+        "cumulative_volume": 861320
+      },
+      "indicator_key": "75000_STRADDLE",
+      "atm_level": 75000,
+      "level_index": -1
+    },
+    "ATM_LV+0": {
+      "ce_strike": 75200,
+      "pe_strike": 75200,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "75200_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 495.0782084832614,
+        "ema": null,
+        "close": 980.9,
+        "signal": 0,
+        "ce_strike": 75200,
+        "pe_strike": 75200,
+        "cumulative_volume": 132360
+      },
+      "indicator_key": "75200_STRADDLE",
+      "atm_level": 75200,
+      "level_index": 0
+    },
+    "ATM_LV+1": {
+      "ce_strike": 75400,
+      "pe_strike": 75400,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "75400_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 612.4147178140358,
+        "ema": null,
+        "close": 1183.3,
+        "signal": 0,
+        "ce_strike": 75400,
+        "pe_strike": 75400,
+        "cumulative_volume": 136740
+      },
+      "indicator_key": "75400_STRADDLE",
+      "atm_level": 75400,
+      "level_index": 1
+    },
+    "ATM_LV+2": {
+      "ce_strike": 75600,
+      "pe_strike": 75600,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "75600_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 764.4700109962758,
+        "ema": null,
+        "close": 1383.65,
+        "signal": 0,
+        "ce_strike": 75600,
+        "pe_strike": 75600,
+        "cumulative_volume": 162960
+      },
+      "indicator_key": "75600_STRADDLE",
+      "atm_level": 75600,
+      "level_index": 2
+    },
+    "ATM_LV+3": {
+      "ce_strike": 75800,
+      "pe_strike": 75800,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "75800_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 920.5539050966803,
+        "ema": null,
+        "close": 1580.65,
+        "signal": 0,
+        "ce_strike": 75800,
+        "pe_strike": 75800,
+        "cumulative_volume": 103660
+      },
+      "indicator_key": "75800_STRADDLE",
+      "atm_level": 75800,
+      "level_index": 3
+    },
+    "ATM_LV+4": {
+      "ce_strike": 76000,
+      "pe_strike": 76000,
+      "is_active": true,
+      "can_enter_trade": false,
+      "last_signal": {
+        "indicator_key": "76000_STRADDLE",
+        "timestamp": "2026-03-19T15:19:00+05:30",
+        "rsi": null,
+        "vwap": 1109.4769362140353,
+        "ema": null,
+        "close": 1775.85,
+        "signal": 0,
+        "ce_strike": 76000,
+        "pe_strike": 76000,
+        "cumulative_volume": 244760
+      },
+      "indicator_key": "76000_STRADDLE",
+      "atm_level": 76000,
+      "level_index": 4
+    }
+  }
+}
